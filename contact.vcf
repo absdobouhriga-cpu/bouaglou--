@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;BOUAGLOU Assurance;;;
+FN:BOUAGLOU Assurance
+ORG:BOUAGLOU Assurance
+TEL;TYPE=CELL,VOICE:0662875717
+TEL;TYPE=WORK,VOICE:0528285028
+EMAIL;TYPE=INTERNET,WORK:ag.bouaglou.recouv@rmaassurance.com
+item1.URL:https://www.facebook.com/share/1A57CH4JMK/?mibextid=wwXIfr
+item1.X-ABLabel:Facebook
+item2.URL:https://www.instagram.com/bouaglouassurance?igsh=MTdqbTkxMHJrcmJhcA==
+item2.X-ABLabel:Instagram
+item3.URL:https://wa.me/0662875717
+item3.X-ABLabel:WhatsApp
+END:VCARD
